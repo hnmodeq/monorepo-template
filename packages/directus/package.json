@@ -1,0 +1,9 @@
+{
+  "name": "directus",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./index.js",
+  "dependencies": {
+    "@directus/sdk": "^21.2.2"
+  }
+}
